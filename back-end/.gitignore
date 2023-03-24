@@ -1,0 +1,30 @@
+# Dependências instaladas com NPM
+node_modules/
+
+# Arquivos gerados pelo ambiente de desenvolvimento
+*.log
+*.pid
+*.swp
+*.tmp
+
+# Arquivos de configuração de ambiente
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+.env.development
+.env.staging
+
+# Arquivos de build
+build/
+dist/
+out/
+public/
+
+# Outros arquivos e diretórios que não devem ser rastreados pelo Git
+.DS_Store
+Thumbs.db
+.cache
+.coverage
+.nyc_output
