@@ -1,0 +1,21 @@
+.space {
+  padding: 20px;
+}
+
+.lado {
+  margin-left: 20px;
+}
+
+.w100 {
+  width: 100px;
+  text-align: left;
+}
+
+.w300 {
+  width: 300px;
+  text-align: left;
+}
+
+.sb {
+  margin-left: 5px;
+}
