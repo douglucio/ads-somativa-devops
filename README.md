@@ -1,2 +1,3 @@
 # ads-somativa-devops
-Atividade Somativa disciplina DevOps
+## Trabalho Elaborado por Ronaldo Lucio dos Reis e Guilherme Henrique Froes
+Atividade Somativa disciplina DevOps PUC-PR
